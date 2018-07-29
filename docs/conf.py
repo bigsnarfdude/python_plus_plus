@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# python_exameple documentation build configuration file, created by
-# sphinx-quickstart on Fri Feb 26 00:29:33 2016.
+# python_plus_plus documentation build configuration file, created by
+# sphinx-quickstart on 2018.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -52,9 +52,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'python_example'
-copyright = u'2016, Sylvain Corlay'
-author = u'Sylvain Corlay'
+project = u'python_plus_plus'
+copyright = u'2018, Vincent Ohprecio'
+author = u'Vincent Ohprecio'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -206,7 +206,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'python_exampledoc'
+htmlhelp_basename = 'python_plus_plusdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'python_example.tex', u'python_example Documentation',
+    (master_doc, 'python_plus_plus.tex', u'python_plus_plus Documentation',
      u'Sylvain Corlay', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'python_example', u'python_example Documentation',
+    (master_doc, 'python_plus_plus', u'python_plus_plus Documentation',
      [author], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'python_example', u'python_example Documentation',
-     author, 'python_example', 'One line description of project.',
+    (master_doc, 'python_plus_plus', u'python_plus_plus Documentation',
+     author, 'python_plus_plus', 'C++ Apache Log Parser Python module.',
      'Miscellaneous'),
 ]
 

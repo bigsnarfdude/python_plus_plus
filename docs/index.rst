@@ -1,5 +1,5 @@
 python_plus_plus Documentation
-============================
+==============================
 
 Contents:
 

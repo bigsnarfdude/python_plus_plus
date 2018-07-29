@@ -28,7 +28,7 @@ Installation
      - `"%VS140COMNTOOLS%\..\..\VC\vcvarsall.bat" x64`
      - `set DISTUTILS_USE_SDK=1`
      - `set MSSdk=1`
-     - `pip install ./python_example`
+     - `pip install ./python_plus_plus`
 
    Note that this requires the user building `python_plus_plus` to have registry edition
    rights on the machine, to be able to run the `vcvarsall.bat` script.
